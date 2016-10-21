@@ -1,0 +1,9 @@
+p = Professor.new('Albert','enstien',1900)
+
+s1 = Student.new('Joe','Student',1900)
+s2 = Student.new('Jane','Student',1900)
+s3 = Student.new('Jill','Student',1900)
+
+
+
+cohort =[s1, s2, s3]
